@@ -1,0 +1,2 @@
+Add genuine execution evidence here after running the project on your CUDA GPU.
+Do not submit fabricated logs, screenshots, or performance measurements.
